@@ -95,7 +95,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background-color: #D1B1C8;
+    background: url("../images/hero\ image.jpg") no-repeat center center/cover;
 }
 
 /*Footer*/
