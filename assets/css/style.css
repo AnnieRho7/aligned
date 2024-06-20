@@ -54,6 +54,17 @@ h1 {
     border-bottom: 1px solid #544750;
 }
 
+/* Navbar style and dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: #D1B1C8;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #544750;
+    display: none;
+}
+
 /*Main Content*/
 main {
     background-color: tomato;
