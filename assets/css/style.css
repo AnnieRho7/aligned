@@ -188,6 +188,55 @@ main {
     color: #fafafa;
 }
 
+/* General table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: 'Lato', sans-serif;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #D1B1C8;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+td {
+    background-color: #f9f9f9;
+    font-size: 1rem;
+    color: #3a3a3a;
+}
+
+tbody tr:nth-child(even) td {
+    background-color: #f1f1f1;
+}
+
+tbody tr:hover td {
+    background-color: #f5e8ed;
+    color: #000;
+}
+
+thead th {
+    font-size: 1.2rem;
+}
+
+/* Table header and body */
+thead {
+    border-bottom: 2px solid #544750;
+}
+
+tbody tr:last-child td {
+    border-bottom: none;
+}
 
 /*Footer*/
 #social-networks {
@@ -261,6 +310,19 @@ main {
         text-align: end;
         align-self: flex-end;
     }
+
+    table {
+        font-size: 0.8rem;
+    }
+    th, td {
+        padding: 10px;
+    }
+}
+
+/* Adding some padding and margin around the table */
+main {
+    padding: 20px;
+}
 }
 
 /*Media query: laptop and desktops (992px and up)*/
