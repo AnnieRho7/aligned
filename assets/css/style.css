@@ -82,12 +82,20 @@ nav {
     font-size: 2rem;
 }
 
-/*Main Content*/
+/* Main content */
 main {
-    background-color: tomato;
-    /*Make main element take up any surplus space to push footer down*/
+    /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+
+/* Hero section */
+
+#hero {
+    height: 600px;
+    width: 100%;
+    background-color: #D1B1C8;
 }
 
 /*Footer*/
@@ -121,7 +129,7 @@ main {
         display: flex;
     }
 
-    #menu>li {
+    #menu > li {
         padding-left: 1rem;
     }
 
@@ -144,7 +152,7 @@ main {
 
 /*Media query: laptop and desktops (992px and up)*/
 @media screen and (min-width: 992px) {
-    #menu a:hover {
+    #menu a:hover{
         border-bottom: 1px solid #544750;
     }
 }
