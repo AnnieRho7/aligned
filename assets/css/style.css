@@ -467,29 +467,6 @@ tbody tr:last-child td {
     background-color: #c09db5;
 }
 
-/* Responsive styling */
-@media screen and (max-width: 768px) {
-    #contact-container {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    #contact-info,
-    #contact-form {
-        flex: 1 1 100%;
-        margin: 10px 0;
-    }
-}
-
-/* Responsive styling */
-@media screen and (max-width: 768px) {
-
-    #contact-info,
-    #contact-form {
-        width: 100%;
-    }
-}
-
 /*Footer*/
 #social-networks {
     text-align: center;
