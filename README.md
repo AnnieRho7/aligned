@@ -31,29 +31,59 @@ The features of this project are based on the following user stories:
 
 - As a visiting user, I want to navigate the site easily.
 - As a visiting user, I want to know what classes and services are provided by the studio.
-- As a visiting user, I want to read about the studio's philosophy and the instructors' backgrounds.
 - As a visiting user, I want to see images of the studio, classes, and events.
 - As a visiting user, I want to know how to contact the studio for inquiries or bookings.
 
 ### Wireframes
 Attach wireframes in this section
 ### Typography
-Explain fonts you've used for your project
+I used https://fonts.google.com/ to pick my fonts. I started just using the fonts I used for the Love Running Project and changed to DM Sans for my headings and Poppins for my body. I like the simplicity of these fonts I think they are easy to read and go well with my brand.
+
 ### Colour Scheme
-Screenshoot of the colour scheme for your project
+()
 
 ## Features:
-Explain your features on the website,(navigation, pages, links, forms, input fields, CRUD....)
+### Navigation
+- The navigation bar is horizontal, located at the top of the page, and is fixed.
+- The navigation bar includes the logo on the left, which links to home page.
+- The navigation bar contains links to Home, Timetable and Contact Us sections.
+
+### Header
+- The header features a hero image of a yoga session.
+- Display of the studio name "Aligned" with the sub-heading "Find Your Balance."
+
+### Benefits
+- A brief overview of the benefits of yoga and mindfulness.
+
+### Timetable
+- Information on different yoga classes offered (e.g., Beginners, Hatha, Yin).
+- Weekly schedule with times
+
+### Gallery
+- A collection of images showcasing the studio, classes, and events.
+- Captions describing each image.
+
+### Contact Us
+- Contact details including phone number, email address, and studio address.
+- A contact form with required fields to ensure correct completion.
+
+### Footer
+- Links to social media: Facebook, Instagram, Twitter, and YouTube via icons.
 
 ## Future features
-Add future features you would like to implement on your site 404 page, confirmation page, login system.....
+- About Us section showing profiles of the instructors with images and bios.
+- Blog articles on yoga, wellness, and mindfulness.
+- Online booking system for classes and events.
+- Integration with a membership management system.
+- Additional resources such as downloadable guides and videos.
+
 
 ## Technologies Used
 - HTML5 
 - CSS3
  ### Frameworks, Libraries & Programes Used
 - #### [Google fonts](https://fonts.google.com/knowledge)
-Google fonts were used to import the 'Dosis' font into the style.css file which is used on all pages throughout the project
+Google fonts were used to import the 'DM Sans' and 'Poppins' font into the style.css file which is used on all pages throughout the project. DM Sans was used for headings and poppins was used for body.
  - #### [Font Awesome](https://fontawesome.com/)
 Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
  - #### [Git](https://gitpod.io/)
@@ -98,7 +128,7 @@ List of bugs and how did you fix them
       - Under "Source", click the dropdown called "None" and select "Master Branch".
       - The page will automatically refresh.
       - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-      - live link for the page can be found here [Lake dippers](https://tmarkec.github.io/Lake-dippers/)
+      - live link for the page can be found here [Aligned](https://)
 - Forking the GitHub Repository
     - By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps
      - Log in to GitHub and locate the GitHub Repository
@@ -115,6 +145,11 @@ List of bugs and how did you fix them
    - Press Enter. Your local clone will be created.
 
    ## Credits
+   I got my code from following along witht he love running project, Chat GPT, W3Schools, codingnapal and google to help me achieve my finished look.
+   I used pexels for my final images but also checked out unsplashed and pixabay.
+   I got inspiration from pinterest and code nepal and love running project.
+   I used chat GPT and my own knowledge to create the content for my website. 
+   
     In this section credit any code, images, text or design that is not custom
 
    ## Acknowledgments

@@ -18,15 +18,19 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1,
-h2,
-h3 {
+h1, h2 {
     font-family: 'DM Sans', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     color: #544750;
 }
 
+
+h3 {
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 2px;
+    color: #544750;
+}
 .hidden-heading {
     display: none;
 }
@@ -110,13 +114,13 @@ main {
 
 #cover-text {
     background-color: rgba(209, 177, 200, .7);
-    font-size: 130%;
+    font-size: 150%;
     position: absolute;
-    bottom: 10px;
-    width: 80%;
-    min-height: 110px;
-    padding-top: 10px;
-    padding-left: 10px;
+    bottom: 15px;
+    width: 53%;
+    min-height: 115px;
+    padding-top: 5px;
+    padding-left: 15px;
 }
 
 /* Reasons section */
