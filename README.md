@@ -2,7 +2,7 @@
 
 
  
-![Am i responsive image](add file path of image here)  
+![Am i responsive image]()  
 
 [Click Here To Visit Live Site]( add live link of the project here)
 
