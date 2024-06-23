@@ -7,23 +7,6 @@
 [Click Here To Visit Live Site]( add live link of the project here)
 
 
-## Table Of Contents:
-1. [Design & Planning](#design-&-planning)
-    * [User Stories](#user-stories)
-    * [Wireframes](#wireframes)
-    * [Typography](#typography)
-    * [Color Scheme](#color-scheme)
-2. [Features](#features)
-3. [Future features](#future-features)
-4. [Technologies Used](#technologies-used)
-5. [Testing](#testing)
-6. [Bugs](#bugs)
-7. [Deployment](#deployment)
-8. [Credits](#credits)
-9. [Acknowledgments](#acknowledgments)
-
-
-
 ## Design & Planning:
 
 ### User Stories
@@ -40,7 +23,9 @@ Attach wireframes in this section
 I used https://fonts.google.com/ to pick my fonts. I started just using the fonts I used for the Love Running Project and changed to DM Sans for my headings and Poppins for my body. I like the simplicity of these fonts I think they are easy to read and go well with my brand.
 
 ### Colour Scheme
-()
+- **Primary Color**: #D1B1C8 (soft pink/purple)
+- **Secondary Color**: #544750 (dark purple)
+
 
 ## Features:
 ### Navigation
