@@ -35,10 +35,10 @@ I used https://fonts.google.com/ to pick my fonts. I started just using the font
 
 ### Header
 - The header features a hero image of a yoga session.
-- Display of the studio name "Aligned" with the sub-heading "Find Your Balance."
+- Display of the studio name "Aligned" with the sub-heading "Yoga Studio"
 
 ### Benefits
-- A brief overview of the benefits of yoga and mindfulness.
+- A brief overview of the benefits of yoga.
 
 ### Timetable
 - Information on different yoga classes offered (e.g., Beginners, Hatha, Yin).
@@ -61,7 +61,6 @@ I used https://fonts.google.com/ to pick my fonts. I started just using the font
 - Online booking system for classes and events.
 - Integration with a membership management system.
 - Additional resources such as downloadable guides and videos.
-
 
 ## Technologies Used
 - HTML5 
@@ -86,12 +85,12 @@ Screenshots of certain pages and scores (mobile and desktop)
 ### Browser Compatibility
 Check compatability with different browsers
 
-
 ### Responsiveness
 Screenshots of the responsivness, pick few devices
 
 ### Code Validation
-Validate your code HTML, CSS files display screenshots
+[HTML validator](https://validator.w3.org/nu/#textarea)
+[CSS validator](https://jigsaw.w3.org/css-validator/validator)
 
 ### Testing user stories
 Test all your user stories, you an create table 
@@ -101,7 +100,8 @@ paste here you user story | what is visible to the user and what action they sho
 - and attach screenshot
 
 ## Bugs
-List of bugs and how did you fix them
+I ran my code through validator and learned that I had spaces in my photo name so I went back in a fixed that so there was no spaces. 
+I resized the photos for each page for better optimisation.
 
 ## Deployment
 - Github pages
@@ -113,7 +113,7 @@ List of bugs and how did you fix them
       - Under "Source", click the dropdown called "None" and select "Master Branch".
       - The page will automatically refresh.
       - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-      - live link for the page can be found here [Aligned](https://)
+      - live link for the page can be found here [Aligned](https://annierho7.github.io/aligned/index.html)
 - Forking the GitHub Repository
     - By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps
      - Log in to GitHub and locate the GitHub Repository
@@ -130,11 +130,9 @@ List of bugs and how did you fix them
    - Press Enter. Your local clone will be created.
 
    ## Credits
-   I got my code from following along witht he love running project, Chat GPT, W3Schools, codingnapal and google to help me achieve my finished look.
+   I got my code from following along with the love running project, Chat GPT, W3Schools, codingnapal and google to help me achieve my finished look.
    I used pexels for my final images but also checked out unsplashed and pixabay.
    I got inspiration from pinterest and code nepal and love running project.
    I used chat GPT and my own knowledge to create the content for my website. 
-   
-    In this section credit any code, images, text or design that is not custom
 
    ## Acknowledgments
