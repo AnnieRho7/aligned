@@ -89,15 +89,22 @@ Check compatability with different browsers
 Screenshots of the responsivness, pick few devices
 
 ### Code Validation
-[HTML validator](https://validator.w3.org/nu/#textarea)
+[HTML validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannierho7.github.io%2Faligned%2Findex.html)
 [CSS validator](https://jigsaw.w3.org/css-validator/validator)
 
 ### Testing user stories
-Test all your user stories, you an create table 
-User Story |  Test | Pass
---- | --- | :---:
-paste here you user story | what is visible to the user and what action they should perform | &check;
-- and attach screenshot
+**User Story 1**: As a visiting user, I want to navigate the site easily.
+- Navigation bar functionality: Met
+- Sticky header: Met
+
+**User Story 2**: As a visiting user, I want to know what classes and services are provided by the studio.
+- Class and services information: Met
+
+**User Story 3**: As a visiting user, I want to see images of the studio, classes, and events.
+- Gallery functionality: Met
+
+**User Story 4**: As a visiting user, I want to know how to contact the studio for inquiries or bookings.
+- Contact Us section details: Met
 
 ## Bugs
 I ran my code through validator and learned that I had spaces in my photo name so I went back in a fixed that so there was no spaces. 
