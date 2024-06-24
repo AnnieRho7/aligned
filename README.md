@@ -2,9 +2,9 @@
 
 
  
-![Am i responsive image]()  
+![Am i responsive image](/assets/readme-images/responsive.png)  
 
-[Click Here To Visit Live Site]( add live link of the project here)
+[Click Here To Visit Live Site](https://annierho7.github.io/aligned/index.html)
 
 
 ## Design & Planning:
@@ -19,6 +19,7 @@ The features of this project are based on the following user stories:
 
 ### Wireframes
 Attach wireframes in this section
+
 ### Typography
 I used https://fonts.google.com/ to pick my fonts. I started just using the fonts I used for the Love Running Project and changed to DM Sans for my headings and Poppins for my body. I like the simplicity of these fonts I think they are easy to read and go well with my brand.
 
@@ -32,28 +33,35 @@ I used https://fonts.google.com/ to pick my fonts. I started just using the font
 - The navigation bar is horizontal, located at the top of the page, and is fixed.
 - The navigation bar includes the logo on the left, which links to home page.
 - The navigation bar contains links to Home, Timetable and Contact Us sections.
+[navbar](/assets/readme-images/navbar.png)
 
 ### Header
 - The header features a hero image of a yoga session.
 - Display of the studio name "Aligned" with the sub-heading "Yoga Studio"
+[header](/assets/readme-images/header.png)
 
 ### Benefits
 - A brief overview of the benefits of yoga.
+[benefits](/assets/readme-images/benefits.png)
 
 ### Timetable
 - Information on different yoga classes offered (e.g., Beginners, Hatha, Yin).
 - Weekly schedule with times
+[timetable](/assets/readme-images/timetable.png)
 
 ### Gallery
 - A collection of images showcasing the studio, classes, and events.
 - Captions describing each image.
+[gallery](/assets/readme-images/gallery.png
 
 ### Contact Us
 - Contact details including phone number, email address, and studio address.
 - A contact form with required fields to ensure correct completion.
+[contact us](/assets/readme-images/contactus.png)
 
 ### Footer
 - Links to social media: Facebook, Instagram, Twitter, and YouTube via icons.
+[footer](/assets/readme-images/footer.png)
 
 ## Future features
 - About Us section showing profiles of the instructors with images and bios.
@@ -80,17 +88,25 @@ GitHub is used to store the projects code after being pushed from Git.
 Important part of your README!!!
 
 ### Google's Lighthouse Performance
-Screenshots of certain pages and scores (mobile and desktop)
+[Desktop](/assets/readme-images/desktoplighthouse.png)
+[Mobile](/assets/readme-images/mobile.png)
 
 ### Browser Compatibility
-Check compatability with different browsers
+Tested the website on different browsers to ensure compatibility:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
 
 ### Responsiveness
-Screenshots of the responsivness, pick few devices
+[Microsoft](/assets/readme-images/Edge.png)
+[Firefox](/assets/readme-images/Firefox.png)
+[Google](/assets/readme-images/Chrome.png)
+[Safari](/assets/readme-images/Safari.jpg)
 
 ### Code Validation
 [HTML validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannierho7.github.io%2Faligned%2Findex.html)
-[CSS validator](https://jigsaw.w3.org/css-validator/validator)
+[CSS validator](/assets/readme-images/CSS.png)
 
 ### Testing user stories
 **User Story 1**: As a visiting user, I want to navigate the site easily.
